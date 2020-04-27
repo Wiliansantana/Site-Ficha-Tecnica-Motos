@@ -1,5 +1,5 @@
 # Site-Ficha-Tecnica-Motos
-Site responsivo Ficha tecnica de motos 
+Site responsivo Ficha tecnica de motos, usado na criação Html, Css, Javascript e Bootstrap !!
 <br>
 
 ![ind](https://user-images.githubusercontent.com/48594322/80325355-3d23de00-880b-11ea-9139-b35cea4afcdf.png)
